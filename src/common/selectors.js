@@ -26,7 +26,7 @@ export const textEventTarget = [
 ];
 
 export const kixPage = [
-    '.kix-page',
+    '.kix-page-paginated',
     '.docs-page'
 ];
 
